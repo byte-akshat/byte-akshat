@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning probkem solving and 
 - 💞️ I’m looking to collaborate on PRIVATE COMPANIES
 - 📫 How to reach me via telegram/X/whatsapp
-- 
+
 
 <!---
 byte-akshat/byte-akshat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
